@@ -3,7 +3,6 @@ import data from "./assets/movies_rnexgr.json";
 import logoNetflix from "./assets/img/logo-netflix.png";
 
 function App() {
-  // console.log(data);
   return (
     <>
       <div className="container">
